@@ -55,3 +55,29 @@ figure_list:
     src: fig-1-14-violin.jpg
     caption: "Georges Braque, Violin and Candlestick, 1910"
     credit: "Public domain image."
+  - id: "1.15"
+    src: CFvayX0psZw
+    media_type: youtube
+    fallback:
+    caption: "Masters and Masterworks Ruth Asawa Biography- 1978"
+    credit:
+  - id: "1.16"
+    src: VVbnTDiIPM
+    media_type: youtube
+    caption: "Masters and Masterworks Ruth Asawa Technique- 1978"
+    credit: "Public domain image."
+  - id: "1.17"
+    src: fig-1-17-instudio.jpg
+    caption: "SF Examiner Ruth Working in Studio"
+    credit: "Public domain image."
+  - id: "1.18"
+    src: fig-1-18-groupofarchitecturalworks.jpg
+    caption: "SJMA Group of Architectural Works"
+    credit: "Public domain image."
+  - id: "1.19"
+    src: fig-1-19-pearsonresidence.jpg
+    caption: "Stanford- Sculpture at Pearson Residence"
+    credit: "Public domain image."
+  - id: "1.20"
+    src: fig-1-20-sjmemorialproposal.jpg
+    caption: "San Jose Memorial Proposal"
